@@ -1,2 +1,2 @@
 # b_tech
-b_tech programs!
+Programs that I wrote in my Engineering classes.
